@@ -1,4 +1,5 @@
 # maven-java-app
+### Useful commands
 
 - ```Terminal
       mvn archetype:generate
