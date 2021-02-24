@@ -1,5 +1,6 @@
 # maven-java-app
 
 - ```Terminal
-       mvn archetype:generate
- ```
+      mvn archetype:generate```
+ ``` Terminal
+     mvn clean```
